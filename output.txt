@@ -1,0 +1,21 @@
+Opened:  http://example.com 
+Redirected to: http://example.com
+1 http://www.iana.org/domains/example
+
+Opened:  http://www.tbi.univie.ac.at/~marcel 
+Redirected to: http://www.tbi.univie.ac.at/~marcel/
+1 http://fonts.googleapis.com/css?family=Open+Sans:400,600
+2 http://html5shim.googlecode.com/svn/trunk/html5.js
+3 http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js
+4 http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+5 http://www.tbi.univie.ac.at/RNA/BHG/index.html
+6 http://www.tbi.univie.ac.at/images/team/mkucharik.jpg
+7 http://ceur-ws.org/Vol-788/paper6.pdf
+8 http://dx.doi.org/10.1093/bioinformatics/btu156
+9 http://dx.doi.org/10.1093/bioinformatics/btu337
+10 http://dx.doi.org/10.1093/bioinformatics/btv572
+11 http://github.com/marcelTBI/
+12 http://www.tbi.univie.ac.at/RNA/BHG/index.html
+13 http://www.csc.univie.ac.at/ik/
+14 http://www.univie.ac.at
+
