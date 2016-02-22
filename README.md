@@ -6,3 +6,5 @@ Producer goes through urls stored in "urls.txt" (created in the beginning of the
 Consumer goes through the "to_do" Queue, parses HTML and writes found hyperlinks to file "output.txt".
 
 Producer and consumer run concurrently and independently. 
+
+Used Python ver. 3.x
